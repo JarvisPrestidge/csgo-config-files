@@ -1,2 +1,2 @@
 # csgo-config-files
-My csgo binding
+My csgo bindings and configs
